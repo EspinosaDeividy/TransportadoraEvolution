@@ -1,2 +1,2 @@
 # TransportadoraEvolution
-Cadastro de Transportadoras com Entity Fraqmework, Migrations, Jquery and bootstrap
+Cadastro de Transportadoras com Entity Framework, Migrations, Jquery and bootstrap
